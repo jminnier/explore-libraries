@@ -9,4 +9,4 @@ Let's look at a file:
 
 [01_explore-libraries_jenny](01_explore-libraries_jenny.md)
 
-Wingardium Leviosa.
+WinGARdium Leviosa!
